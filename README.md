@@ -36,6 +36,12 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EBB71A?style=for-the-badge&logo=autocad&logoColor=white)
 
+<p>:rocket: Estou estudando:</p>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
 <br>
 <p>:bookmark_tabs: Estatísticas:</p>
 <div style="display: flex; align-items: center;">
