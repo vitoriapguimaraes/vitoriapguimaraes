@@ -28,6 +28,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3B0C45?style=for-the-badge&logo=plotly&logoColor=white)
+![OriginLab](https://img.shields.io/badge/OriginLab-orange?style=for-the-badge)
+
 
 <p>:notebook: Tenho conhecimento básico:</p>
 
