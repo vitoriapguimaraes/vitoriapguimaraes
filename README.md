@@ -43,21 +43,11 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-
+<!-- 
 <br>
 <p>:bookmark_tabs: Estatísticas:</p>
 <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=vitoriapguimaraes&show_icons=true&locale=en" alt="vitoriapguimaraes" style="margin-right: 20px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriapguimaraes&show_icons=true&locale=en&layout=compact" alt="vitoriapguimaraes"/>
 </div>
-
-
-<!-- 
-- 🔭 Eu estou atualmente trabalhando em... [project name](project link)
-- 🌱 Estou atualmente aprendendo **Python, SQL**
-- 👯 I’m looking to collaborate on [project name](project link)
-- 🤝 I’m looking for help with [project name](project link)
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/vitoriapguimaraes/](https://www.linkedin.com/in/vitoriapguimaraes/)
-- 💬 Me pergunte sobre **Matemática, estatística**
-- 📫 Contato **vipistori@gmail.coom**
 -->
