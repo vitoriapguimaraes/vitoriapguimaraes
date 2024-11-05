@@ -6,9 +6,9 @@
 
 <hr>
 
-<p>Sou engenheira ambiental em transição para a carreira de <strong>Análise de Dados</strong>, motivada a encarar novos desafios. Com perfil multidisciplinar e foco em resolver problemas, busco uma oportunidade para aplicar minha experiência e construir uma nova etapa na carreira, contribuindo com soluções estratégicas e inovadoras na área.</p>
+<p>Sou uma <strong>Análise de Dados</strong> com formação em Engenharia Ambiental, motivada a encarar novos desafios. Com perfil multidisciplinar e foco em resolver problemas, busco uma oportunidade para aplicar minha experiência e construir uma nova etapa na carreira, contribuindo com soluções estratégicas e inovadoras na área.</p>
 
-<p><small>I am an environmental engineer transitioning into a career in <strong>Data Analysis</strong>, motivated to take on new challenges. With a multidisciplinary profile and a focus on problem-solving, I am seeking an opportunity to apply my experience and build a new stage in my career, contributing strategic and innovative solutions to the field.</small></p>
+<p>I am a <strong>Data Analyst</strong> with a background in Environmental Engineering, motivated to take on new challenges. With a multidisciplinary profile and a focus on problem-solving, I am seeking an opportunity to apply my experience and build a new stage in my career, contributing strategic and innovative solutions to the field.</p>
 
 <hr>
 
@@ -42,6 +42,8 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 <!-- 
 <br>
