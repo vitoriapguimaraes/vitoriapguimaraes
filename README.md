@@ -6,9 +6,9 @@
 
 <hr>
 
-<p>Sou uma <strong>Análise de Dados</strong> com formação em Engenharia Ambiental, motivada a encarar novos desafios. Com perfil multidisciplinar e foco em resolver problemas, busco uma oportunidade para aplicar minha experiência e construir uma nova etapa na carreira, contribuindo com soluções estratégicas e inovadoras na área.</p>
+<p>Sou uma <strong>Analista de Dados</strong> com formação em Engenharia Ambiental e, atualmente, estudante de Desenvolvimento de Software, motivada a encarar novos desafios. Com perfil multidisciplinar e foco em resolver problemas, busco uma oportunidade para aplicar minha experiência e construir uma nova etapa na carreira, contribuindo com soluções estratégicas e inovadoras na área.</p>
 
-<p>I am a <strong>Data Analyst</strong> with a background in Environmental Engineering, motivated to take on new challenges. With a multidisciplinary profile and a focus on problem-solving, I am seeking an opportunity to apply my experience and build a new stage in my career, contributing strategic and innovative solutions to the field.</p>
+<p>I am a <strong>Data Analyst</strong> with a background in Environmental Engineering and currently a Software Development student, motivated to take on new challenges. With a multidisciplinary profile and a focus on problem-solving, I am seeking an opportunity to apply my experience and build a new stage in my career, contributing strategic and innovative solutions in the field.</p>
 
 <hr>
 
