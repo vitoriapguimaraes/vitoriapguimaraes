@@ -46,7 +46,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Currículos e Documentos
+<hr>
+
+### Currículos e Documentos:
+
+![Resume](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/DOCUMENTOS/Resume-VitoriaPistori.png)
+
 Acesse os arquivos disponíveis na pasta 
 [![Documentos](https://img.shields.io/badge/DOCUMENTOS-%F0%9F%93%83-blue?style=flat-square)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
 
