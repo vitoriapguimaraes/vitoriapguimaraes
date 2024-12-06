@@ -50,7 +50,6 @@
 
 ### Currículos e Documentos:
 
-![Resume](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/DOCUMENTOS/Resume-VitoriaPistori.png)
 
 Acesse os arquivos disponíveis na pasta 
 [![Documentos](https://img.shields.io/badge/DOCUMENTOS-%F0%9F%93%83-blue?style=flat-square)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
