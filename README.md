@@ -8,10 +8,9 @@
 <p>I am a <strong>Software Developer</strong> and <strong>Data Analyst</strong> with a background in Environmental Engineering, currently studying Systems Analysis and Development. With a multidisciplinary profile, I am motivated to take on new challenges and apply my experience to create innovative solutions. I am seeking an opportunity to contribute to efficient strategies, focusing on problem-solving and the continuous advancement of my career.
 
 ### Encontre-me por aqui
+
 <a href="https://www.linkedin.com/in/vitoriapguimaraes/" target="blank"><img src="https://img.shields.io/badge/vitoriapguimaraes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="200" /></a> 
 <a href="mailto:vipistori@gmail.com" target="blank"><img src="https://img.shields.io/badge/vipistori@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="200" /></a>
-
-<br>
 
 ## 💻 Programas | Softwares
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
