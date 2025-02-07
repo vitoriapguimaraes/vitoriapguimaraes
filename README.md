@@ -51,11 +51,6 @@
 Acesse os arquivos disponíveis na pasta 
 [![Documentos](https://img.shields.io/badge/DOCUMENTOS-%F0%9F%93%83-blue?style=flat-square)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
 
-<br>
-
-## 🎓 Estudando na Faculdade
-![ADS](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/ADS-Disciplinas.png)
-
 <!-- 
 <br>
 <p>:bookmark_tabs: Estatísticas:</p>
@@ -63,4 +58,8 @@ Acesse os arquivos disponíveis na pasta
     <img src="https://github-readme-stats.vercel.app/api?username=vitoriapguimaraes&show_icons=true&locale=en" alt="vitoriapguimaraes" style="margin-right: 20px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriapguimaraes&show_icons=true&locale=en&layout=compact" alt="vitoriapguimaraes"/>
 </div>
+
+## 🎓 Estudando na Faculdade
+![ADS](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/ADS-Disciplinas.png)
+
 -->
