@@ -2,27 +2,19 @@
 
 # Olá! 👋 Sou Vitória
 
-<p>Sou <strong>Desenvolvedora de Software</strong> e <strong>Analista de Dados</strong> com formação em Engenharia Ambiental, atualmente estudante de Análise e Desenvolvimento de Sistemas. Com um perfil multidisciplinar, estou motivada a enfrentar novos desafios e aplicar minha experiência para criar soluções inovadoras. Busco uma oportunidade para contribuir com estratégias eficientes, focando na resolução de problemas e no aprimoramento contínuo da minha carreira.
+<p>Sou <strong>Desenvolvedora de Software Full Stack</strong> e <strong>Analista de Dados</strong> com formação em Engenharia Ambiental, atualmente estudante de Análise e Desenvolvimento de Sistemas. Com um perfil multidisciplinar, estou motivada a enfrentar novos desafios e aplicar minha experiência para criar soluções inovadoras. Busco uma oportunidade para contribuir com estratégias eficientes, focando na resolução de problemas e no aprimoramento contínuo da minha carreira.
 </p>
 
-<p>I am a <strong>Software Developer</strong> and <strong>Data Analyst</strong> with a background in Environmental Engineering, currently studying Systems Analysis and Development. With a multidisciplinary profile, I am motivated to take on new challenges and apply my experience to create innovative solutions. I am seeking an opportunity to contribute to efficient strategies, focusing on problem-solving and the continuous advancement of my career.
+<p>I am a <strong>Full Stack Software Developer</strong> and <strong>Data Analyst</strong> with a background in Environmental Engineering, currently studying Systems Analysis and Development. With a multidisciplinary profile, I am motivated to take on new challenges and apply my experience to create innovative solutions. I am seeking an opportunity to contribute to efficient strategies, focusing on problem-solving and the continuous advancement of my career.
 
 ### Encontre-me por aqui
 
 <a href="https://www.linkedin.com/in/vitoriapguimaraes/" target="blank"><img src="https://img.shields.io/badge/vitoriapguimaraes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="200" /></a> 
 <a href="mailto:vipistori@gmail.com" target="blank"><img src="https://img.shields.io/badge/vipistori@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="200" /></a>
 
-## 💻 Programas | Softwares
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EBB71A?style=for-the-badge&logo=autocad&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white)
-
 ## 🛠 Habilidades técnicas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 Ciência de dados
@@ -33,6 +25,14 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## 💻 Programas | Softwares
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EBB71A?style=for-the-badge&logo=autocad&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white)
 
 ## 📓 Aprendendo
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
