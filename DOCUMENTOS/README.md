@@ -1,1 +1,1 @@
-![Resume](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/DOCUMENTOS/Resume-VitoriaPistori.png)
+![Resume](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/Resume-VitoriaPistori.png)
