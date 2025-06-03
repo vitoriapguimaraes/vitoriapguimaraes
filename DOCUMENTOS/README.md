@@ -5,8 +5,6 @@ Acesse meu currículo em PDF e conecte-se comigo no LinkedIn!
 [![Ver Currículo em PDF](https://img.shields.io/badge/Acesse%20em%20PDF-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/DOCUMENTOS/ProfileLinkedIn.pdf)
 <a href="https://www.linkedin.com/in/vitoriapguimaraes/"><img src="https://img.shields.io/badge/-in/vitoriapaguimaraes-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
 
-## Minhas certificações
-
 ## Minhas Certificações
 
 Aqui você encontra uma lista das minhas certificações, com detalhes sobre cada uma delas.
