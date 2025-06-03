@@ -43,13 +43,13 @@ Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-## 🎓 Estudando na Faculdade
-![ADS](link repositorio)
+### 🎓 Estudando na Faculdade
+[![Ver ADS no GitHub](https://img.shields.io/badge/Ver%20ADS%20no%20GitHub-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/ADS)
 
 ## Mais sobre mim
 Acesse os arquivos disponíveis na [Pasta Documentos](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
 
-![Resume](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/ResumeImg-VitoriaPistori.png)
+![Resume](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/ResumeImg-VitoriaPistori-v1.png)
 
 <!-- 
 <p>:bookmark_tabs: Estatísticas:</p>
