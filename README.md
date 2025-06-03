@@ -43,6 +43,9 @@ Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
+## 🎓 Estudando na Faculdade
+![ADS](link repositorio)
+
 ## Mais sobre mim
 Acesse os arquivos disponíveis na [Pasta Documentos](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
 
@@ -54,28 +57,5 @@ Acesse os arquivos disponíveis na [Pasta Documentos](https://github.com/vitoria
     <img src="https://github-readme-stats.vercel.app/api?username=vitoriapguimaraes&show_icons=true&locale=en" alt="vitoriapguimaraes" style="margin-right: 20px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriapguimaraes&show_icons=true&locale=en&layout=compact" alt="vitoriapguimaraes"/>
 </div>
-
-## 🎓 Estudando na Faculdade
-![ADS](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/ADS-Disciplinas.png)
-
-Acesse os arquivos disponíveis na pasta <a href="https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS"><img src="https://img.shields.io/badge/-Documentos-000000?style=plastic" alt="Pasta Documentos"/></a> para mais informações sobre minhas qualificações e certificações.
-
-## 📝 Informações Detalhadas
-- 👤 **Nome:** [Seu Nome Aqui]   
-- 🎂 **Idade:** [Sua Idade]   
-- 📍 **Localização:** [Cidade - Estado, País]   
-- 💻 **Stack:** [Liste as tecnologias que você utiliza, por exemplo: PHP, Laravel, React, etc.]   
-- 📚 **Aprendizado Atual:** [Tecnologias ou linguagens que você está estudando]   
-- 🎓 **Formação:** [Seu grau acadêmico ou cursos relevantes]   
-- 🏆 **Conquistas:** [Prêmios ou reconhecimentos, se houver]   
-
-## 😎 Curiosidades sobre Mim
-- 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos. 
-- 💡 Comecei a programar em **[Ano]** e, desde então, venho me desafiando e aprendendo coisas novas.   
-- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.   
-- 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.
-
-versão 2 badges
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,git,docker,aws)](https://skillicons.dev)
 
 -->
