@@ -1,5 +1,3 @@
-![capa](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/Capa.png)
-
 # 👋 Olá, visitante!
 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
@@ -57,6 +55,8 @@ Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre 
 Acesse os arquivos disponíveis na [Pasta Documentos](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
 
 <!-- 
+
+![capa](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/Capa.png)
 
 ![Resume](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/ResumeImg-VitoriaPistori-v1.png)
 
