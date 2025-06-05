@@ -56,9 +56,10 @@ Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre 
 ## Mais sobre mim
 Acesse os arquivos disponíveis na [Pasta Documentos](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS) para mais informações sobre minhas qualificações e certificações.
 
+<!-- 
+
 ![Resume](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/ResumeImg-VitoriaPistori-v1.png)
 
-<!-- 
 <p>:bookmark_tabs: Estatísticas:</p>
 <div style="display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=vitoriapguimaraes&show_icons=true&locale=en" alt="vitoriapguimaraes" style="margin-right: 20px;"/>
