@@ -1,13 +1,13 @@
 # 👋 Olá, visitante!
 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
-<p>Olá! Sou <strong>Engenheira Ambiental</strong> com mestrado em Ciências (físico-química) e uma jornada de transição de carreira para a área de tecnologia. Atualmente, atuo como <strong>Estagiária em Ciência de Dados</strong> no <strong>Instituto de Pesquisas Eldorado</strong>, onde estou aprofundando meus conhecimentos em <strong>Machine Learning</strong> e <strong>Visão Computacional</strong>.</p>
+<p>Olá! Sou <strong>Engenheira Ambiental</strong> com mestrado em Ciências (físico-química) e uma jornada de transição de carreira para a área de tecnologia. Atualmente, atuo como <strong>Estagiária em Ciência de Dados</strong> no <strong>Instituto de Pesquisas Eldorado</strong>.</p>
 <p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e tenho experiência em projetos com Python, SQL, Power BI, JavaScript e React, focados em análise de dados, automação e desenvolvimento web. Minha trajetória acadêmica me proporcionou uma sólida base em análise e tratamento de grandes volumes de dados, aplicando estatística e ferramentas computacionais para extrair insights valiosos.</p>
 <p>Sou apaixonada por transformar dados em soluções inovadoras e estou sempre em busca de novos desafios e aprendizados contínuos. Acredito que minha experiência multidisciplinar e minha curiosidade me permitem abordar problemas complexos de forma criativa.</p>
 
 ---
 
-<p>Hello! I'm an <strong>Environmental Engineer</strong> with a Master's degree in Sciences (physical chemistry), currently transitioning into technology. I'm working as a <strong>Data Science Intern</strong> at the <strong>Eldorado Research Institute</strong>, where I'm deepening my expertise in <strong>Machine Learning</strong> and <strong>Computer Vision</strong>.</p>
+<p>Hello! I'm an <strong>Environmental Engineer</strong> with a Master's degree in Sciences (physical chemistry), currently transitioning into technology. I'm working as a <strong>Data Science Intern</strong> at the <strong>Eldorado Research Institute</strong>.</p>
 <p>I'm also a student of <strong>Systems Analysis and Development</strong>, with project experience in Python, SQL, Power BI, JavaScript, and React, focused on data analysis, automation, and web development. My academic background provided a strong foundation in analyzing and processing large datasets, applying statistics and computational tools to extract valuable insights.</p>
 <p>I am passionate about transforming data into innovative solutions and am always seeking new challenges and continuous learning. I believe my multidisciplinary background and curiosity allow me to approach complex problems creatively.</p>
 
