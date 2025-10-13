@@ -11,8 +11,10 @@ Aqui você encontra uma lista das minhas certificações, com detalhes sobre cad
 
 | Título da Certificação                                               | Data     | Plataforma                    | Carga horária | Habilidades |
 |----------------------------------------------------------------------|----------|-------------------------------|---------------|-------------|
+| Object-Oriented Developer                                            | Out 2025 | Descomplica Faculdade Digital | 240h          | Java, Software Development |
 | Programmer                                                           | Mai 2025 | Descomplica Faculdade Digital | 160h          | Java, Software Development |
 | Basic Frontend                                                       | Mar 2025 | Descomplica Faculdade Digital | 240h          | HTML, CSS, JavaScript, Web Development, UI/UX |
+| ...                                                                  | ...      | ...                           | ...           | ...         |
 | GitHub Foundations                                                   | Jun 2025 | GitHub                        | -             | Git, GitHub |
 | Ferramentas e Aplicações da Inteligência Artifical                   | Mai 2025 | Descomplica Faculdade Digital | 10h           | IA          |
 | Excel Básico                                                         | Mai 2025 | Descomplica Faculdade Digital | 30h           | Excel       |
