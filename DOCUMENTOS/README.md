@@ -9,43 +9,50 @@ Acesse meu currículo em PDF e conecte-se comigo no LinkedIn!
 
 Aqui você encontra uma lista das minhas certificações, com detalhes sobre cada uma delas.
 
-| Título da Certificação                                               | Data     | Plataforma                    | Carga horária | Habilidades |
-|----------------------------------------------------------------------|----------|-------------------------------|---------------|-------------|
-| Object-Oriented Developer                                            | Out 2025 | Descomplica Faculdade Digital | 240h          | Java, Software Development |
-| Programmer                                                           | Mai 2025 | Descomplica Faculdade Digital | 160h          | Java, Software Development |
-| Basic Frontend                                                       | Mar 2025 | Descomplica Faculdade Digital | 240h          | HTML, CSS, JavaScript, Web Development, UI/UX |
-| ...                                                                  | ...      | ...                           | ...           | ...         |
-| GitHub Foundations                                                   | Jun 2025 | GitHub                        | -             | Git, GitHub |
-| Ferramentas e Aplicações da Inteligência Artifical                   | Mai 2025 | Descomplica Faculdade Digital | 10h           | IA          |
-| Excel Básico                                                         | Mai 2025 | Descomplica Faculdade Digital | 30h           | Excel       |
-| Introdução ao Desenvolvimento Web                                    | Mai 2025 | Descomplica Faculdade Digital | 10h           | JavaScript  |
-| Produtividade e Organização                                          | Mai 2025 | Descomplica Faculdade Digital | 30h           | Produtividade |
-| Fundamentals of Data Science and Artificial Intelligence             | Mai 2025 | Data Science Academy          | 24h           | AI, Machine Learning, Data Science |
-| GitHub 4 Women                                                       | Mai 2025 | WoMakersCode                  | 25h           | Git, GitHub |
-| Imersão IA 3ª edição                                                 | Mai 2025 | Alura                         | 6h            | AI, Python  |
-| Jornada Tech - Programa Desenvolve Fase 1                            | Mai 2025 | Koru                          | 20h           | Data Engineering, AI |
-| Network Fundamentals                                                 | Mai 2025 | Cisco Networking Academy      | 70h           | Network Security, Network Engineering |
-| Fundamentals of Software Testing                                     | Abr 2025 | TIC em trilhas                | 20h           | Testing     |
-| Imersão Dev 9ª edição                                                | Abr 2025 | Alura                         | 4h            | HTML5, CSS, JavaScript |
-| Imersão Mobile                                                       | Abr 2025 | Alura                         | 3h            | Mobile Application Development, Flutter |
-| Jornada Inteligência Artificial                                      | Abr 2025 | Hashtag Treinamentos          | 8h            | IA          |
-| Fundamentos de Engenharia de Dados                                   | Mar 2025 | Data Science Academy          | 24h           | Data Engineering, Data Science |
-| Network Defense                                                      | Mar 2025 | Cisco                         | 24h           | Segurança digital |
-| Intensivão de Power BI                                               | Fev 2025 | Hashtag Treinamentos          | 8h            | Power BI, Análise de Dados |
-| Jornada Full Stack                                                   | Fev 2025 | Hashtag Treinamentos          | 8h            | Desenvolvimento web, React.js |
-| IA para Todos                                                        | Jan 2025 | StartSe University            | 4h            | AI          |
-| Imersão Dev Frontend                                                 | Jan 2025 | Alura                         | 5h            | HTML5, CSS, React.js |
-| Microsoft Power BI para Business Intelligence e Data Science         | Jan 2025 | Data Science Academy          | 72h           | Microsoft Power BI, Análise de dados, Aprendizagem profunda, SQL |
-| Intensivo Análise de Dados                                           | Dez 2024 | Hashtag Treinamentos          | 8h            | Análise de dados, Python |
-| Fundamentos de Linguagem Python para Análise de Dados e Data Science | Nov 2024 | Data Science Academy          | 72h           | Python, Ciência de dados, SQL, Jupyter Notebook, Aprendizagem profunda |
-| Intensivo Python                                                     | Out 2024 | Hashtag Treinamentos          | 8h            | Análise de dados, Python, Desenvolvimento web |
-| Imersão Dev Backend                                                  | Dez 2023 | Alura                         | 4h            | Desenvolvimento de back-end, Java, Node.js, Google Gemini |
-| EF SET English Certificate 94/100 (C2 Proficient)                    | Jan 2022 | EF SET                        | -             | Inglês      |
+### Descomplica Faculdade Digital
 
-*Os documentos originais dos certificados podem ser encontrados na pasta [CERTIFICADOS](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS/CERTIFICADOS) deste repositório.*
+| Título da Certificação    | Data     | Carga horária | Habilidades                                       |
+| ------------------------- | -------- | ------------- | ------------------------------------------------- |
+| Object-Oriented Developer | Out 2025 | 240h          | Java · Software Development                       |
+| Programmer                | Mai 2025 | 160h          | Java · Software Development                       |
+| Basic Frontend            | Mar 2025 | 240h          | HTML · CSS · JavaScript · Web Development · UI/UX |
 
-## Visão Rápida
+### Certificações diversas
 
-<div align="center">
-  <img src="https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/image/ResumeImg-VitoriaPistori.png" alt="Prévia do Currículo" width="700"/>
-</div>
+| Título da Certificação                                               | Data     | Plataforma                    | Carga horária | Habilidades                                                                |
+| -------------------------------------------------------------------- | -------- | ----------------------------- | ------------- | -------------------------------------------------------------------------- |
+| IBM SkillsBuild                                                      | Oct 2025 | IBM                           | 12h           | AI                                                                         |
+| Badge: Project 3 – Relative Risk and Customer Classification         | Sep 2025 | Laboratoria                   | 100h          | Python · Data Science · Google BigQuer                                     |
+| Badge: Project 2 - Data Analysis with SQL and Storytelling           | Sep 2025 | Laboratoria                   | 100h          | Dashboards · SQL · Storytelling · Data Analysis                            |
+| Badge: Project 1 - Data Analysis with RFM in Spreadsheets            | Jul 2025 | Laboratoria                   | 100h          | RFM · Data Analysis · Spreadsheets                                         |
+| Visão Computacional: Hand Tracking com OpenCV                        | Jun 2025 | Alura                         | 10h           | Python · Computer Vision · OpenCV                                          |
+| Visão Computacional: Análise Facial                                  | Jun 2025 | Alura                         | 10h           | Python · Computer Vision · OpenCV                                          |
+| Visão Computacional: Detecção de Movimento com OpenCV                | Jun 2025 | Alura                         | 10h           | Python · Computer Vision · OpenCV                                          |
+| GitHub Foundations                                                   | Jun 2025 | GitHub                        | -             | Git · GitHub                                                               |
+| Ferramentas e Aplicações da Inteligência Artifical                   | Mai 2025 | Descomplica Faculdade Digital | 10h           | AI                                                                         |
+| Excel Básico                                                         | Mai 2025 | Descomplica Faculdade Digital | 30h           | Excel                                                                      |
+| Introdução ao Desenvolvimento Web                                    | Mai 2025 | Descomplica Faculdade Digital | 10h           | JavaScript                                                                 |
+| Produtividade e Organização                                          | Mai 2025 | Descomplica Faculdade Digital | 30h           | Produtividade                                                              |
+| Fundamentals of Data Science and Artificial Intelligence             | Mai 2025 | Data Science Academy          | 24h           | AI · Machine Learning · Data Science                                       |
+| GitHub 4 Women                                                       | Mai 2025 | WoMakersCode                  | 25h           | Git · GitHub                                                               |
+| Imersão IA 3ª edição                                                 | Mai 2025 | Alura                         | 6h            | AI · Python                                                                |
+| Jornada Tech - Programa Desenvolve Fase 1                            | Mai 2025 | Koru                          | 20h           | Data Engineering · AI                                                      |
+| Network Fundamentals                                                 | Mai 2025 | Cisco Networking Academy      | 70h           | Network Security · Network Engineering                                     |
+| Fundamentals of Software Testing                                     | Abr 2025 | TIC em trilhas                | 20h           | Testing                                                                    |
+| Imersão Dev 9ª edição                                                | Abr 2025 | Alura                         | 4h            | HTML5 · CSS · JavaScript                                                   |
+| Imersão Mobile                                                       | Abr 2025 | Alura                         | 3h            | Mobile Application Development · Flutter                                   |
+| Jornada Inteligência Artificial                                      | Abr 2025 | Hashtag Treinamentos          | 8h            | AI                                                                         |
+| Fundamentos de Engenharia de Dados                                   | Mar 2025 | Data Science Academy          | 24h           | Data Engineering · Data Science                                            |
+| Network Defense                                                      | Mar 2025 | Cisco                         | 24h           | Segurança digital                                                          |
+| Intensivão de Power BI                                               | Fev 2025 | Hashtag Treinamentos          | 8h            | Power BI · Análise de Dados                                                |
+| Jornada Full Stack                                                   | Fev 2025 | Hashtag Treinamentos          | 8h            | Desenvolvimento web · React.js                                             |
+| IA para Todos                                                        | Jan 2025 | StartSe University            | 4h            | AI                                                                         |
+| Imersão Dev Frontend                                                 | Jan 2025 | Alura                         | 5h            | HTML5 · CSS · React.js                                                     |
+| Microsoft Power BI para Business Intelligence e Data Science         | Jan 2025 | Data Science Academy          | 72h           | Microsoft Power BI · Análise de dados · Aprendizagem profunda · SQL        |
+| Intensivo Análise de Dados                                           | Dez 2024 | Hashtag Treinamentos          | 8h            | Análise de dados · Python                                                  |
+| Fundamentos de Linguagem Python para Análise de Dados e Data Science | Nov 2024 | Data Science Academy          | 72h           | Python · Ciência de dados · SQL · Jupyter Notebook · Aprendizagem profunda |
+| Intensivo Python                                                     | Out 2024 | Hashtag Treinamentos          | 8h            | Análise de dados · Python · Desenvolvimento web                            |
+| Imersão Dev Backend                                                  | Dez 2023 | Alura                         | 4h            | Desenvolvimento de back-end · Java · Node.js · Google Gemini               |
+| EF SET English Certificate 94/100 (C2 Proficient)                    | Jan 2022 | EF SET                        | -             | Inglês                                                                     |
+
+_Os documentos originais dos certificados podem ser encontrados na pasta [CERTIFICADOS](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/DOCUMENTOS/CERTIFICADOS) deste repositório._
