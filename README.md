@@ -16,6 +16,8 @@ Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre 
 
 <a href="https://www.linkedin.com/in/vitoriapguimaraes/"><img src="https://img.shields.io/badge/-in/vitoriapguimaraes-0077B5?style=for-the-badge" alt="LinkedIn"/></a> 
 <a href="mailto:vipistori@gmail.com"><img src="https://img.shields.io/badge/-vipistori@gmail.com-D14836?style=for-the-badge" alt="Gmail"/></a>
+<a href="https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/README.md"><img src="https://img.shields.io/badge/Currículo%20em%20md-gray?style=for-the-badge" alt="Resume ATS md"/></a>
+<a href="https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/DOCUMENTOS/Vitoria_Pistori_RESUME.pdf"><img src="https://img.shields.io/badge/Currículo%20em%20pdf-gray?style=for-the-badge" alt="Resume ATS PDF"/></a>
 
 ### 📈 Ciência de dados
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white)
