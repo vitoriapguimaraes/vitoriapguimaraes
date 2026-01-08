@@ -13,6 +13,7 @@ Aqui você encontra uma lista das minhas certificações, com detalhes sobre cad
 
 | Título da Certificação    | Data     | Carga horária | Habilidades                                       |
 | ------------------------- | -------- | ------------- | ------------------------------------------------- |
+| Backend Developer         | Nov 2025 | -             | Python · Java · Software Development              |
 | Object-Oriented Developer | Out 2025 | 240h          | Java · Software Development                       |
 | Programmer                | Mai 2025 | 160h          | Java · Software Development                       |
 | Basic Frontend            | Mar 2025 | 240h          | HTML · CSS · JavaScript · Web Development · UI/UX |
@@ -21,8 +22,21 @@ Aqui você encontra uma lista das minhas certificações, com detalhes sobre cad
 
 | Título da Certificação                                               | Data     | Plataforma                    | Carga horária | Habilidades                                                                |
 | -------------------------------------------------------------------- | -------- | ----------------------------- | ------------- | -------------------------------------------------------------------------- |
+| Programaria Agentes IA                                               | Dez 2025 | Programaria                   | -             | AI · Agents                                                                |
+| AWS Certificates                                                     | Nov 2025 | AWS                           | -             | Cloud Computing                                                            |
+| AWS Armazenamento e Serverless                                       | Nov 2025 | AWS                           | -             | Cloud Computing · Storage · Serverless                                     |
+| AWS Engenharia de Dados                                              | Nov 2025 | AWS                           | -             | Cloud Computing · Data Engineering                                         |
+| AWS Essentials                                                       | Nov 2025 | AWS                           | -             | Cloud Computing                                                            |
+| AWS IAM                                                              | Nov 2025 | AWS                           | -             | Cloud Computing · IAM · Security                                           |
+| AWS Machine Learning e AI                                            | Nov 2025 | AWS                           | -             | Cloud Computing · AI · Machine Learning                                    |
+| AWS Networking                                                       | Nov 2025 | AWS                           | -             | Cloud Computing · Networking                                               |
+| Laboratoria Certificate                                              | Nov 2025 | Laboratoria                   | -             | Data Science · Data Anlysis · Python                                       |
+| Badge: Project 4                                                     | Nov 2025 | Laboratoria                   | -             | Project Management                                                         |
+| Badge: Rota BI                                                       | Nov 2025 | Laboratoria                   | -             | Business Intelligence                                                      |
+| Badge: Rota ETL                                                      | Nov 2025 | Laboratoria                   | -             | ETL · Data Engineering                                                     |
+| Badge: Rota ML                                                       | Nov 2025 | Laboratoria                   | -             | Machine Learning · Python                                                  |
 | IBM SkillsBuild                                                      | Oct 2025 | IBM                           | 12h           | AI                                                                         |
-| Badge: Project 3 – Relative Risk and Customer Classification         | Sep 2025 | Laboratoria                   | 100h          | Python · Data Science · Google BigQuer                                     |
+| Badge: Project 3 – Relative Risk and Customer Classification         | Sep 2025 | Laboratoria                   | 100h          | Python · Data Science · Google BigQuery                                    |
 | Badge: Project 2 - Data Analysis with SQL and Storytelling           | Sep 2025 | Laboratoria                   | 100h          | Dashboards · SQL · Storytelling · Data Analysis                            |
 | Badge: Project 1 - Data Analysis with RFM in Spreadsheets            | Jul 2025 | Laboratoria                   | 100h          | RFM · Data Analysis · Spreadsheets                                         |
 | Visão Computacional: Hand Tracking com OpenCV                        | Jun 2025 | Alura                         | 10h           | Python · Computer Vision · OpenCV                                          |
