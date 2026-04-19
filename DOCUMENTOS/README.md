@@ -13,6 +13,7 @@ Aqui você encontra uma lista das minhas certificações, com detalhes sobre cad
 
 | Título da Certificação    | Data     | Carga horária | Habilidades                                       |
 | ------------------------- | -------- | ------------- | ------------------------------------------------- |
+| Frontend Developer        | Abr 2026 | -             | Flutter · Web Development · UI/UX                 |
 | Backend Developer         | Nov 2025 | -             | Python · Java · Software Development              |
 | Object-Oriented Developer | Out 2025 | 240h          | Java · Software Development                       |
 | Programmer                | Mai 2025 | 160h          | Java · Software Development                       |
@@ -22,6 +23,11 @@ Aqui você encontra uma lista das minhas certificações, com detalhes sobre cad
 
 | Título da Certificação                                               | Data     | Plataforma                    | Carga horária | Habilidades                                                                |
 | -------------------------------------------------------------------- | -------- | ----------------------------- | ------------- | -------------------------------------------------------------------------- |
+| LangChain: Chat Inteligente RAG                                      | Abr 2026 | Alura                         | 8h            | AI · LLMs · RAG · LangChain                                                |
+| LangGraph: Orquestração de Multiagentes                              | Mar 2026 | Alura                         | 8h            | AI · Agents · Multi-agent Systems · LangGraph                              |
+| LangChain: Técnicas de RAG                                           | Mar 2026 | Alura                         | 8h            | AI · LLMs · RAG · LangChain                                                |
+| Agentes Inteligentes: LangChain, LangGraph e LangSmith               | Mar 2026 | Alura                         | 8h            | AI · Agents · LangChain · LangGraph · LangSmith                            |
+| Arquitetura RAG com LLMs                                             | Fev 2026 | Alura                         | 8h            | AI · LLMs · RAG                                                            |
 | Programaria Agentes IA                                               | Dez 2025 | Programaria                   | -             | AI · Agents                                                                |
 | AWS Certificates                                                     | Nov 2025 | AWS                           | -             | Cloud Computing                                                            |
 | AWS Armazenamento e Serverless                                       | Nov 2025 | AWS                           | -             | Cloud Computing · Storage · Serverless                                     |
