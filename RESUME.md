@@ -1,98 +1,79 @@
-# Vitória Pistori Guimarães
+# **Vitória Pistori Guimarães**
 
-<a href="https://www.linkedin.com/in/vitoriapguimaraes/"><img src="https://img.shields.io/badge/-in/vitoriapguimaraes-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
-<a href="mailto:vipistori@gmail.com"><img src="https://img.shields.io/badge/-vipistori@gmail.com-D14836?style=for-the-badge" alt="Gmail"/></a>
-<a href="https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/DOCUMENTOS/Vitoria_Pistori_RESUME.pdf"><img src="https://img.shields.io/badge/Currículo%20em%20pdf-gray?style=for-the-badge" alt="Resume ATS PDF"/></a>
+vipistori@gmail.com | \+55 18 99788 0703 | [linkedin/vitoriapguimaraes](http://linkedin.com/in/vitoriapguimaraes/) | [github/vitoriapguimaraes](https://github.com/vitoriapguimaraes)
 
-### Objective
+##
 
-Data Science Professional with experience in Machine Learning and Computer Vision. With a background in Environmental Engineering and a focus on academic research, I possess a strong analytical mindset and a passion for transforming complex data into actionable insights. I am eager to contribute to innovative projects in an environment that fosters continuous learning and professional growth.
+## **Objective**
 
-### Professional Summary
+Data Scientist and Software Developer with solid experience in building scalable Artificial Intelligence solutions, data engineering, and full-stack web applications. Proven track record of technical autonomy in deploying advanced Computer Vision architectures (Multi-input/Multi-output) and designing complex systems powered by Large Language Models (LLMs), Multi-Agent frameworks, and RAG. Highly analytical professional focused on transforming complex business logic into efficient automation that eliminates manual workflows and drives strategic value for engineering teams.
 
-A versatile professional with solid experience in Data Analysis, Data Visualization, and Front-End Development. During my Master's studies, I successfully worked with complex data extraction, modeling, and interpretation. I currently develop projects using Python, React, JavaScript, and Power BI, including a volunteer application for a local NGO. I am actively transitioning from Environmental Engineering to a full-stack development and data science career.
+## —
 
-## Projects
+# **Core Technical Skills**
 
-### Grupo SOS Câncer de Pongaí Application
+- Languages: Python (Advanced), JavaScript, SQL, R, HTML, CSS.
+- AI & Data Engineering: Machine Learning, Computer Vision, LLMs, RAG (Retrieval-Augmented Generation), Multi-Agent Orchestration, Pandas, Scikit-learn, NumPy, Matplotlib, Statsmodels.
+- Frameworks & Web Development: React, React Native, Node.js, Streamlit, Flask.
+- Tools & Infrastructure: BigQuery, Power BI, Git, Docker, VS Code.
+- Languages: English (C2 \- Native Fluency / Native-like Proficiency).
 
-_February/2025 – In Development_
+##
 
-Developing a volunteer application aimed at presenting the NGO's history, encouraging donations, and facilitating volunteer participation. Technologies: React / React Native
+## —
 
-### Personal Portfolio
+# **Professional Experience**
 
-_In Development_
+## **Instituto de Pesquisa Eldorado | Data Scientist / Technology Specialist**
 
-Developing various projects utilizing HTML, CSS, JavaScript, React, and Python, showcasing technical skills and problem-solving abilities.
+_May 2025 – Present_
 
-## Professional Experience
+- Act with total technical autonomy to boost the operational efficiency of internal teams through advanced Machine Learning, Generative AI, and Computer Vision solutions.
+- Led the self-taught development, retraining, and optimization of complex Computer Vision architectures using multi-input and multi-output models, managing data governance for a robust dataset of over 40,000 images with Python.
+- Designed and deployed Generative AI systems based on Multi-Agent frameworks with intelligent orchestration and RAG (Retrieval-Augmented Generation) tailored for automated querying across large-scale structured databases.
+- Engineered a Multi-Agent AI solution focused on extracting device User Interfaces (UI) to achieve full end-to-end software test automation, mitigating 100% of the manual regression efforts for QA teams.
+- Proactively conceptualized and built interactive Streamlit applications for scientific data visualization, enabling seamless data validation and insight sharing with project stakeholders.
+- Authored comprehensive technical documentation for AI pipelines, ensuring robust governance, reproducibility, and smooth cross-functional communication across multiple engineering teams.
 
-### Data Science Intern | Eldorado Research Institute
-
-_May/2025 – Present_
-
-Applied Machine Learning and Computer Vision techniques to solve real-world problems.
-
-### Academic Researcher – FAPESP Scholar | University of São Paulo (USP)
+## **Universidade de São Paulo (USP) | Academic Researcher / Data Scientist (FAPESP)**
 
 _May/2019 – December/2021_
 
-Master's Degree in Science. Conducted advanced analysis of experimental data, utilizing Python and statistical tools for data modeling and interpretation.
+- Spearheaded statistical modeling projects, taking ownership of processing, cleaning, and interpreting massive volumes of experimental data in real time.
+- Developed custom Python scripts to automate data pipelines, exploratory data analysis (EDA), and the validation of complex mathematical models.
 
-### Trainee Engineer | Municipal Secretariat of Environment of Araçatuba
-
-_October/2018 – December/2018_
-
-Applied Python and statistical tools to interpret large volumes of experimental data in sustainable energy research.
-
-### Scientific Initiation Researcher | UFSCar and CNPq
-
-_December/2017 – November/2018_
-
-Utilized Python and statistical tools for interpreting large volumes of experimental data in sustainable energy research.
-
-### Founder and Environmental Project Manager | LS Consultoria Júnior
+## **LS Consultoria Júnior | Founder & Project Manager**
 
 _August/2016 – December/2017_
 
-Founded and managed a junior environmental consulting firm, overseeing project execution and business development.
+- Structured and launched a junior consulting firm from the ground up, directing strategic planning, initial corporate governance, and end-to-end project execution.
 
-## Academic Background
+## —
 
-### Technologist in Systems Analysis and Development
+# **Key Projects**
+
+## **SOS Câncer de Pongaí Mobile App (React / React Native / Python)**
+
+_February/2025 – Present_
+
+- Serving as Technical Lead for frontend development and database architecture for a social impact application, optimizing user registration workflows, secure donation management, and mobile accessibility.
+
+## —
+
+# **Education**
+
+## **B.S. in Systems Analysis and Development (A.D.S.)**
 
 Descomplica Faculdade Digital | December/2024 – July/2027 (Expected)
 
-### Data Journey (Specialization Program)
+## **Advanced Data Specialization (Jornada de Dados)**
 
 Laboratoria | June/2025 – October/2025
 
-### Master of Science (M.Sc.)
+## **Master of Science (M.Sc.) – Data Analysis & Statistics Focus**
 
 University of São Paulo (USP) | March/2019 – November/2021
 
-### Bachelor of Environmental Engineering (B.E.)
+## **Bachelor of Science (B.S.) in Engineering**
 
 Federal University of São Carlos (UFSCar) | March/2014 – December/2018
-
-## Hard Skills / Technical Skills
-
-- Languages: Python, JavaScript, SQL, R, HTML, CSS
-- Frameworks: React, React Native, Node.js
-- Tools: Power BI, Git, VS Code
-- Data Analysis: Pandas, Matplotlib, NumPy, Scikit-learn
-- Other: Inglês C2, Docker, Excel, Photoshop
-
-## Soft Skills / Behavioral Competencies
-
-- Clear Communication
-- Documentation
-- Problem-Solving
-- Teamwork
-- Organization
-- Adaptability
-
-## Languages
-
-- English: C2 (Proficiency)
