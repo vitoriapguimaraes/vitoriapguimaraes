@@ -1,4 +1,4 @@
-# Hi there, I'm Vitória Pistori Guimarães! 👋
+# Hi there, I'm Vitória Pistori! 👋
 
 I am a **Data Scientist and Full-Stack Developer** focused on bridging advanced Artificial Intelligence with robust software engineering. I specialize in architecting end-to-end applications, designing complex multi-agent orchestration frameworks, and engineering production-ready machine learning solutions that automate complex workflows and drive efficiency.
 
