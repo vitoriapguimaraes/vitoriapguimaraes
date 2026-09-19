@@ -1,68 +1,76 @@
-# **Vitória Pistori Guimarães**
+# **Vitória Norbiato Pistori**
 
-vipistori@gmail.com | \+55 18 99788 0703 | [linkedin/vitoriapguimaraes](http://linkedin.com/in/vitoriapguimaraes/) | [github/vitoriapguimaraes](https://github.com/vitoriapguimaraes)
+Pongaí, SP, Brazil | \+55 18 99788 0703 | vipistori@gmail.com  
+[linkedin/vitoriapguimaraes](http://linkedin.com/in/vitoriapguimaraes/) | [github/vitoriapguimaraes](https://github.com/vitoriapguimaraes)
 
-## Objective
+## **Objective**
 
-Data Scientist and Software Developer with a unique blend of rigorous academic research and practical software engineering. Transitioning from a highly autonomous, year-long R&D internship where I engineered AI solutions, I am seeking a Junior/Mid-level Data Scientist role. I bring proven capability in developing scalable Artificial Intelligence solutions, optimizing data engineering pipelines, and building full-stack web applications. My analytical background enables me to design complex systems powered by Large Language Models (LLMs), Multi-Agent frameworks, and Computer Vision, transforming complex business logic into efficient automation that drives strategic value for engineering teams.
+AI Engineer and Data Scientist with 4+ years of combined experience in Machine Learning, Statistical Modeling, and Applied AI Architectures across corporate R\&D and academic research. Proven track record of designing scalable Generative AI systems (LLMs, RAG, Multi-Agent frameworks) on Google Cloud Platform (GCP) and deploying production-grade Computer Vision models. Strong software engineering background combining advanced Python, SQL (PostgreSQL, BigQuery), Full-Stack development (React, Node.js), and AI-powered dev tools (Cursor). Native in Portuguese, fluent in English (C2).
 
-## Core Technical Skills
+## **Core Technical Skills**
 
-- **Languages:** Python (Advanced), JavaScript, SQL, R, HTML, CSS.
-- **AI & Data Engineering:** Machine Learning, Computer Vision, LLMs, RAG (Retrieval-Augmented Generation), Multi-Agent Orchestration, Pandas, Scikit-learn, NumPy, Matplotlib, Statsmodels.
-- **Frameworks & Web Development:** React, React Native, Node.js, Streamlit, Flask.
-- **Tools & Infrastructure:** BigQuery, Power BI, Git, Docker, VS Code.
-- **Languages:** English (C2 \- Native Fluency / Native-like Proficiency), Portuguese (Native).
+* **AI & Machine Learning**: LLMs, RAG, Multi-Agent Systems, Computer Vision, Embeddings, Vector DBs, Prompt Engineering, Scikit-learn, PyTorch/TensorFlow.  
+* **Data Engineering & Cloud**: Google Cloud Platform (GCP), BigQuery, PostgreSQL, SQL, Data Pipelines, MLOps, MLflow, Model Evaluation & Governance.  
+* **Software Engineering & Web**: Python (Advanced), React, React Native, Node.js, Streamlit, RESTful APIs, Microservices Architecture, Docker, Git.  
+* **Developer Tools & Automation**: Cursor (AI Coding), n8n / Make (Low-Code/No-Code), VS Code, Linux.  
+* **Languages**: Portuguese (Native), English (C2 \- Native Fluency).
 
-## Professional Experience
+## **Professional Experience**
 
-### Instituto de Pesquisas ELDORADO | Data Scientist (Intern)
+### **Instituto de Pesquisas ELDORADO | Data Scientist / AI Engineer (R\&D)**
 
-_May 2025 – Present_
+*May 2025 – Present | Campinas / Remote, Brazil*
 
-- Acted as a fully integrated member of the engineering team, operating with total technical autonomy to develop and optimize advanced Machine Learning, Generative AI, and Computer Vision solutions.
-- Engineered an interactive Streamlit application for scientific data visualization and validation, automating manual workflows and reducing data validation time by 50%.
-- Led the self-taught development and optimization of complex Computer Vision architectures (multi-input/multi-output models) as highly viable contingency solutions, managing data governance for a robust dataset of over 40,000 images in Python.
-- Designed Proof-of-Concept (PoC) Generative AI systems based on Multi-Agent frameworks with intelligent orchestration and RAG for automated queries in large structured databases.
-- Developed a Multi-Agent AI solution for extracting User Interfaces (UI) from devices, significantly mitigating manual regression efforts for QA teams.
-- Authored comprehensive technical documentation for AI pipelines, ensuring robust governance, reproducibility, and fluid communication across engineering teams.
+* Operated with full technical autonomy in corporate R\&D, architecting end-to-end Machine Learning, Generative AI, and Computer Vision solutions.  
+* Engineered Generative AI PoCs utilizing Multi-Agent frameworks, Vector Databases, and RAG pipelines on GCP (BigQuery) for automated structured database querying.  
+* Developed a Multi-Agent AI automation for UI extraction and process integration, cutting manual regression testing time for QA teams.  
+* Architected multi-input/multi-output Computer Vision models and governed an end-to-end data pipeline for 40,000+ images in Python.  
+* Built interactive Streamlit analytical applications, accelerating scientific data validation workflows by 50%.  
+* Utilized Cursor for AI-assisted coding and applied MLOps practices (MLflow, Docker) for reproducibility, model tracking, and technical documentation.
 
-### Universidade de São Paulo (USP) | Academic Researcher / Data Scientist (FAPESP)
+### **Universidade de São Paulo (USP) | Data Scientist / Academic Researcher (FAPESP)**
 
-_March 2019 – November 2021_
+*March 2019 – November 2021 | São Carlos, Brazil*
 
-- Spearheaded statistical modeling projects, taking ownership of processing, cleaning, and interpreting massive volumes of experimental data in real time.
-- Developed custom Python scripts to automate data pipelines, perform Exploratory Data Analysis (EDA), and validate complex mathematical models.
+* Led statistical modeling and data processing initiatives for complex experimental datasets under FAPESP funding.  
+* Built automated Python data pipelines for cleaning, Exploratory Data Analysis (EDA), and real-time model validation.  
+* Designed custom mathematical algorithms to quantify in-situ experimental metrics with statistical rigor.
 
-### LS Consultoria Júnior | Founder & Environmental Project Manager
+### **LS Consultoria Júnior | Founder & Environmental Project Manager**
 
-_August 2016 – December 2017_
+*August 2016 – December 2017 | Buri, Brazil*
 
-- Structured and launched a junior consulting firm from the ground up, directing strategic planning, initial corporate governance, and end-to-end project execution.
-- Secured initial projects and partnerships, demonstrating strong leadership, project management, and problem-solving capabilities.
+* Founded and directed a junior consulting company, managing corporate governance, team coordination, and client deliverables.
 
-## Key Projects
+## **Key Projects**
 
-### SOS Câncer de Pongaí Mobile App (React / React Native / Python)
+### **SOS Câncer de Pongaí App (Technical Lead)**
 
-_February 2025 – Present_
+* Developing a social impact mobile app using React Native, Node.js, and Python for NGO management, donation workflows, and volunteer registration.
 
-- Serving as Technical Lead for frontend development and database architecture for a social impact application, optimizing user registration workflows, secure donation management, and mobile accessibility.
+### **arcadeHub (Legacy Modernization & Architecture)**
 
-## Education
+* Modernized legacy Python/HTML/JS applications into a unified, responsive React SPA with Tailwind CSS, applying modular microservices architecture.
 
-### B.S. in Systems Analysis and Development (A.D.S.)
+### **bookstack-ai & Computer Vision Hub**
+
+* Engineered a suite of open-source projects featuring personal library management with AI analytics and deep learning image recognition pipelines.
+
+## **Education**
+
+### **B.S. in Systems Analysis and Development (A.D.S.)**
 
 Descomplica Faculdade Digital | December 2024 – June 2027 (Expected)
 
-### Advanced Data Specialization (Jornada de Dados)
+### **Advanced Data Specialization (Jornada de Dados)**
 
 Laboratoria Brasil | June 2025 – November 2025
 
-### Master of Science (M.Sc.) – Data Analysis & Statistics Focus (Physical Chemistry)
+### **Master of Science (M.Sc.) – Data Analysis & Statistics Focus (Physical Chemistry)**
 
 Universidade de São Paulo (USP) | March 2019 – December 2021
 
-### Bachelor of Science (B.S.) in Environmental Engineering
+### **Bachelor of Science (B.S.) in Environmental Engineering**
 
 Universidade Federal de São Carlos (UFSCar) | March 2014 – December 2018
+
