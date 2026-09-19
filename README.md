@@ -1,15 +1,18 @@
 # Hi there, I'm Vitória Pistori! 👋
 
+> **AI Engineer & Data Scientist** bridging advanced Artificial Intelligence with robust software engineering. I specialize in architecting end-to-end Generative AI pipelines, designing Multi-Agent orchestration systems, and building production-ready Machine Learning & Computer Vision applications.
+
 I am a **Data Scientist and Full-Stack Developer** focused on bridging advanced Artificial Intelligence with robust software engineering. I specialize in architecting end-to-end applications, designing complex multi-agent orchestration frameworks, and engineering production-ready machine learning solutions that automate complex workflows and drive efficiency.
 
 Currently, my technical contributions include building **Generative AI pipelines (RAG)**, deploying automated **Multi-Agent frameworks**, and fine-tuning complex **Computer Vision models** utilizing multi-input and multi-output data streams.
+
 
 ## Table of Contents
 
 - [Find and connect with me](#find-and-connect-with-me)
 - [Tech Stack](#tech-stack)
-- [Status Legend](#status-legend)
 - [Areas of Expertise](#areas-of-expertise)
+- [Key Projects and Repositories](#key-projects-and-repositories)
 - [Academic and Continuous Learning](#academic-and-continuous-learning)
 
 ## Find and connect with me
@@ -51,14 +54,6 @@ Currently, my technical contributions include building **Generative AI pipelines
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Status Legend
-
-To easily track the status of my projects across all repositories, I use the following tags:
-
-- ✅ **Completed**: Functional current version delivered.
-- 🛠️ **In Maintenance**: Adjustments and corrections in progress.
-- 🚧 **In Development**: New functionalities being implemented.
-
 ## Areas of Expertise
 
 This repository acts as the central hub for my developer portfolio, pointing to distinct areas of focus:
@@ -75,6 +70,30 @@ Both portfolios complement each other and reflect my evolution as a developer, s
 - **M.Sc. in Sciences (Data Analysis & Statistics Focus)** | University of São Paulo (USP)
 
 [![View Academic Repo](https://img.shields.io/badge/Explore%20My%20Academic%20Repositories-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/ADS)
+
+## Key Projects and Repositories
+
+A selection of projects showcasing my work across **software development, data science, AI, computer vision, and data analytics**.
+
+* **[bookstack-ai](https://github.com/vitoriapguimaraes/bookstack-ai)**:
+  Personal library management system with hierarchical AI classification, reading analytics, and visual data exporting.
+
+* **[computerVision](https://github.com/vitoriapguimaraes/computerVision)**:
+  Computer vision pipeline for multi-input/multi-output deep learning models, object detection, and image processing, handling **40,000+ images**.
+
+* **[arcadeHub](https://github.com/vitoriapguimaraes/arcadeHub)**:
+  Legacy system modernization project, migrating standalone Python/HTML/JavaScript applications into a modern **React + Tailwind CSS SPA**.
+
+* **[dataAnalysisBI](https://github.com/vitoriapguimaraes/dataAnalysisBI)**:
+  Interactive Data Science and Business Intelligence hub featuring exploratory data analysis, **GCP BigQuery integration**, and statistical testing with Streamlit.
+
+### Project Status
+
+| Status                 | Meaning                                                   |
+| ---------------------- | --------------------------------------------------------- |
+| ✅ **Completed**        | Functional current version delivered                      |
+| 🛠️ **In Maintenance** | Adjustments, improvements, or corrections in progress     |
+| 🚧 **In Development**  | New features or major changes currently being implemented |
 
 ---
 
