@@ -1,7 +1,7 @@
 # **Vitória Norbiato Pistori**
 
 Pongaí, SP, Brazil | \+55 18 99788 0703 | vipistori@gmail.com  
-[linkedin/vitoriapguimaraes](http://linkedin.com/in/vitoriapguimaraes/) | [github/vitoriapguimaraes](https://github.com/vitoriapguimaraes)
+[linkedin/vnpistori](http://linkedin.com/in/vnpistori/) | [github/vnpistori](https://github.com/vnpistori)
 
 ## **Objective**
 
