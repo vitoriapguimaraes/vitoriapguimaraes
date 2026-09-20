@@ -1,9 +1,9 @@
-# Vitória Pistori Guimarães' Resume
+# Vitória Norbiato Pistori Resume
 
 Access my resume in PDF and connect with me on LinkedIn!
 
-[![View Resume in PDF](https://img.shields.io/badge/View%20in%20PDF-gray?style=for-the-badge)](https://github.com/vitoriapguimaraes/vitoriapguimaraes/blob/main/doc/ProfileLinkedIn.pdf)
-<a href="https://www.linkedin.com/in/vitoriapguimaraes/"><img src="https://img.shields.io/badge/-in/vitoriapaguimaraes-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
+[![View Resume in PDF](https://img.shields.io/badge/View%20in%20PDF-gray?style=for-the-badge)](https://github.com/vnpistori/vnpistori/blob/main/doc/Vitoria_Pistori_RESUME.pdf)
+<a href="https://www.linkedin.com/in/vnpistori/"><img src="https://img.shields.io/badge/-in/vitoriapaguimaraes-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
 
 ## My Certifications
 
@@ -75,4 +75,4 @@ Here you can find a list of my certifications, with details about each one.
 | Backend Dev Immersion                                           | Dec 2023 | Alura                          | 4h       | Backend Development · Java · Node.js · Google Gemini           |
 | EF SET English Certificate 94/100 (C2 Proficient)               | Jan 2022 | EF SET                         | -        | English                                                        |
 
-_The original certificate documents can be found in the [CERTIFICATES](https://github.com/vitoriapguimaraes/vitoriapguimaraes/tree/main/doc/certificates) folder of this repository._
+_The original certificate documents can be found in the [CERTIFICATES](https://github.com/vnpistori/vnpistori/tree/main/doc/certificates) folder of this repository._
