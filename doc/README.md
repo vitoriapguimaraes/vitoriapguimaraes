@@ -2,7 +2,7 @@
 
 Access my resume in PDF and connect with me on LinkedIn!
 
-[![View Resume in PDF](https://img.shields.io/badge/View%20in%20PDF-gray?style=for-the-badge)](https://github.com/vnpistori/vnpistori/blob/main/doc/Vitoria_Pistori_RESUME.pdf)
+[![View Resume in PDF](https://img.shields.io/badge/View%20in%20PDF-gray?style=for-the-badge)](https://github.com/vnpistori/vnpistori/blob/main/Vitoria_Pistori_RESUME.pdf)
 <a href="https://www.linkedin.com/in/vnpistori/"><img src="https://img.shields.io/badge/-in/vnpistori-0077B5?style=for-the-badge" alt="LinkedIn"/></a>
 
 ## My Certifications
